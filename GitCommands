@@ -5,7 +5,7 @@
 5. Rename to new Branch    :: git branch -m old-branch new-branch
 6. Checkout to new Branch  :: git checkout -b ＜new-branch＞
                            :: git checkout -b ＜new-branch＞ ＜existing-branch＞
-7.
+7. Git Commit              :: git commit -m "message"
 
 
 
