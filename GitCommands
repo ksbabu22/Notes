@@ -5,7 +5,18 @@
 5. Rename to new Branch    :: git branch -m old-branch new-branch
 6. Checkout to new Branch  :: git checkout -b ＜new-branch＞
                            :: git checkout -b ＜new-branch＞ ＜existing-branch＞
+
 7. Git Commit              :: git commit -m "message"
 
+8. git Push                :: git push origin [branch name]
+                              Example :: git push origin branch1
 
+9. git clone               :: git clone [URL]
+                              Example :: git clone -b "BranchName" httpsUrl
+
+10.Delete Git Branch       :: git branch -D [name-of-the-branch]
+11.git Checkout            :: git checkout [name of new Branch]
+12.git log
+12.git log --graph
+13.
 
