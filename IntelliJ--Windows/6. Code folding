@@ -1,0 +1,9 @@
+Code folding
+------------
+Expand              :: Ctrl+NumPad +
+Collapse            :: Ctrl+NumPad -
+Expand Recursively  :: Ctrl+Alt+NumPad +
+Collapse Recursively:: Ctrl+Alt+NumPad -
+Expand All          :: Ctrl+Shift+NumPad +
+Collapse All        :: Ctrl+Shift+NumPad -
+Fold Selection      :: Ctrl+.

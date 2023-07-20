@@ -1,0 +1,23 @@
+Basic editing
+-------------
+Cut                  :: Ctrl+X
+Copy                 :: Ctrl+C
+Paste                :: Ctrl+V
+Paste as Plain Text  :: Ctrl+Alt+Shift+V
+Paste from History...:: Ctrl+Shift+V
+Copy Paths           :: Ctrl+Shift+C
+Copy Reference       :: Ctrl+Alt+Shift+C
+Save All             :: Ctrl+S
+Undo                 :: Ctrl+Z
+Redo                 :: Ctrl+Shift+Z
+Indent Selection     :: Tab
+Unindent Line or Selection :: Shift+Tab
+Auto-Indent Lines    :: Ctrl+Alt+I
+Start New Line       :: Shift+Enter
+Start New Line Before Current :: Ctrl+Alt+Enter
+Delete Line          :: Ctrl+Y
+Join Lines           :: Ctrl+Shift+J
+Duplicate Line or Selection  :: Ctrl+D
+Toggle Case          :: Ctrl+Shift+U
+Scratch File         :: Ctrl+Alt+Shift+Insert
+Open Source in New Window :: Shift+F4

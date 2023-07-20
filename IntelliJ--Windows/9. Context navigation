@@ -1,0 +1,26 @@
+Context navigation
+------------------
+Next Method         :: Alt+Down
+Previous Method     :: Alt+Up
+Go to Line/Column...:: Ctrl+G
+Switcher            :: Ctrl+Tab
+Select In...        :: Alt+F1
+Recent Files        :: Ctrl+E
+Last Edit Location  :: Ctrl+Shift+Backspace
+Back                :: Ctrl+Alt+Left
+Forward             :: Ctrl+Alt+Right
+Select Next Tab     :: Alt+Right
+Select Previous Tab :: Alt+Left
+Toggle Anonymous Bookmark :: F11
+Toggle Bookmark with Digit :: Ctrl+Shift+[digit]
+Toggle Bookmark with Mnemonic :: Ctrl+F11
+Show All Bookmarks  :: Shift+F11
+Go to Bookmark with Digit  :: Ctrl+[digit]
+Show Mnemonic Bookmarks  :: Ctrl+Shift+F11
+Go to Next Bookmark :: N/A
+Go to Previous Bookmark ::  N/A
+Show Bookmarks window :: Alt+2
+Show Structure window :: Alt+7
+Show Find window :: Alt+3
+Next Occurrence :: Ctrl+Alt+Down
+Previous Occurrence :: Ctrl+Alt+Up

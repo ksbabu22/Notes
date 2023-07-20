@@ -1,0 +1,17 @@
+Caret navigation
+----------------
+Move Caret to Previous Word  :: Ctrl+Left
+Move Caret to Next Word      :: Ctrl+Right
+Move Caret to Line Start     :: Home
+Move Caret to Line End       :: End
+Move Caret to Matching Brace :: Ctrl+Shift+M
+Move Caret to Code Block Start :: Ctrl+[
+Move Caret to Code Block End :: Ctrl+]
+Next Method                  :: Alt+Down
+Previous Method              :: Alt+Up
+Move Caret to Page Top       :: Ctrl+Page Up
+Move Caret to Page Bottom    :: Ctrl+Page Down
+Page Up                      :: Page Up
+Page Down                    :: Page Down
+Move Caret to Text Start     :: Ctrl+Home
+Move Caret to Text End       :: Ctrl+End

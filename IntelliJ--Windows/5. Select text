@@ -1,0 +1,21 @@
+Select text
+-----------
+Select All          ::  Ctrl+A
+Left with Selection :: Shift+Left
+Right with Selection:: Shift+Right
+Move Caret to Previous Word with Selection  :: Ctrl+Shift+Left
+Move Caret to Next Word with Selection      :: Ctrl+Shift+Right
+Move Caret to Line Start with Selection     :: Shift+Home
+Move Caret to Line End with Selection       :: Shift+End
+Up with Selection                           :: Shift+Up
+Down with Selection                         :: Shift+Down
+Move Caret to Code Block Start with Selection :: Ctrl+Shift+[
+Move Caret to Code Block End with Selection :: Ctrl+Shift+]
+Move Caret to Page Top with Selection       :: Ctrl+Shift+Page Up
+Move Caret to Page Bottom with Selection    :: Ctrl+Shift+Page Down
+Page Up with Selection                      :: Shift+Page Up
+Page Down with Selection                    :: Shift+Page Down
+Move Caret to Text Start with Selection     :: Ctrl+Shift+Home
+Move Caret to Text End with Selection       :: Ctrl+Shift+End
+Extend Selection                            :: Ctrl+W
+Shrink Selection                            :: Ctrl+Shift+W

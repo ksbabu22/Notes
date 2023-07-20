@@ -1,0 +1,14 @@
+Multiple carets and selection ranges
+------------------------------------
+Add/Remove Caret            :: Alt+Shift+Click
+Toggle Column Selection Mode:: Alt+Shift+Insert
+Clone Caret Above           :: Double Ctrl + Up
+Clone Caret Below           :: Double Ctrl + Down
+Add Caret to Each Line in Selection  :: Alt+Shift+G
+Add Selection for Next Occurrence :: Alt+J
+Select All Occurrences      :: Ctrl+Alt+Shift+J
+Deselect Last Occurrence    :: Alt+Shift+J
+Create Rectangular Selection:: Alt+Shift+Middle-Click
+Drag to Create Rectangular Selection :: Alt+Click
+Drag to Create Multiple Rectangular Selections :: Ctrl+Alt+Shift+Click
+

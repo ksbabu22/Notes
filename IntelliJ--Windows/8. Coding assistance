@@ -1,0 +1,21 @@
+Coding assistance
+-----------------
+Show Intention Actions      :: Alt+Enter
+Basic Completion            :: Ctrl+Space
+Type-Matching Completion    :: Ctrl+Shift+Space
+Second Basic Completion     :: Ctrl+Alt+Space
+Complete Current Statement  :: Ctrl+Shift+Enter
+Reformat Code               :: Ctrl+Alt+L
+Parameter Info              :: Ctrl+P
+Quick Documentation         :: Ctrl+Q
+Move Statement Up           :: Ctrl+Shift+Up
+Move Statement Down         :: Ctrl+Shift+Down
+Move Element Left           :: Ctrl+Alt+Shift+Left
+Move Statement Right        :: Ctrl+Alt+Shift+Right
+Move Line Up                :: Alt+Shift+Up
+Move Line Down              :: Alt+Shift+Down
+Comment with Line Comment   :: Ctrl+/
+Comment with Block Comment  :: Ctrl+Shift+/
+Surround With...            :: Ctrl+Alt+T
+Generate...                 :: Alt+Insert
+
