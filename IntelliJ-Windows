@@ -1,0 +1,92 @@
+IntelliJ IDEA's top keyboard shortcuts
+--------------------------------------
+
+Search Everywhere   :: Double Shift
+Find Action...      :: Ctrl+Shift+A
+Show Project window :: Alt+1
+Rebuild             :: Ctrl+Shift+F9
+Show Intention Actions :: Alt+Enter
+Recent Files        :: Ctrl+E
+Find Usages         :: Alt+F7
+Select In...        :: Alt+F1
+Settings...         :: Ctrl+Alt+S
+Generate...         :: Alt+Insert
+Run Anything        :: Double Ctrl
+Debug...            :: Alt+Shift+F9
+View Breakpoints... :: Ctrl+Shift+F8
+Attach to Process... ::Ctrl+Alt+F5
+VCS Operations Popup... :: Alt+`
+Refactor This...     :: Ctrl+Alt+Shift+T
+Reformat Code        :: Ctrl+Alt+L
+
+Build projects
+--------------
+Build Project       :: Ctrl+F9
+Rebuild             :: Ctrl+Shift+F9
+
+Basic editing
+-------------
+Cut                  :: Ctrl+X
+Copy                 :: Ctrl+C
+Paste                :: Ctrl+V
+Paste as Plain Text  :: Ctrl+Alt+Shift+V
+Paste from History...:: Ctrl+Shift+V
+Copy Paths           :: Ctrl+Shift+C
+Copy Reference       :: Ctrl+Alt+Shift+C
+Save All             :: Ctrl+S
+Undo                 :: Ctrl+Z
+Redo                 :: Ctrl+Shift+Z
+Indent Selection     :: Tab
+Unindent Line or Selection :: Shift+Tab
+Auto-Indent Lines    :: Ctrl+Alt+I
+Start New Line       :: Shift+Enter
+Start New Line Before Current :: Ctrl+Alt+Enter
+Delete Line          :: Ctrl+Y
+Join Lines           :: Ctrl+Shift+J
+Duplicate Line or Selection  :: Ctrl+D
+Toggle Case          :: Ctrl+Shift+U
+Scratch File         :: Ctrl+Alt+Shift+Insert
+Open Source in New Window :: Shift+F4
+
+Caret navigation
+---------------
+Move Caret to Previous Word  :: Ctrl+Left
+Move Caret to Next Word      :: Ctrl+Right
+Move Caret to Line Start     :: Home
+Move Caret to Line End       :: End
+Move Caret to Matching Brace :: Ctrl+Shift+M
+Move Caret to Code Block Start :: Ctrl+[
+Move Caret to Code Block End :: Ctrl+]
+Next Method                  :: Alt+Down
+Previous Method              :: Alt+Up
+Move Caret to Page Top       :: Ctrl+Page Up
+Move Caret to Page Bottom    :: Ctrl+Page Down
+Page Up                      :: Page Up
+Page Down                    :: Page Down
+Move Caret to Text Start     :: Ctrl+Home
+Move Caret to Text End       :: Ctrl+End
+
+Select text
+-----------
+Select All          ::  Ctrl+A
+Left with Selection :: Shift+Left
+Right with Selection:: Shift+Right
+Move Caret to Previous Word with Selection  :: Ctrl+Shift+Left
+Move Caret to Next Word with Selection      :: Ctrl+Shift+Right
+Move Caret to Line Start with Selection     :: Shift+Home
+Move Caret to Line End with Selection       :: Shift+End
+Up with Selection                           :: Shift+Up
+Down with Selection                         :: Shift+Down
+Move Caret to Code Block Start with Selection :: Ctrl+Shift+[
+Move Caret to Code Block End with Selection :: Ctrl+Shift+]
+Move Caret to Page Top with Selection       :: Ctrl+Shift+Page Up
+Move Caret to Page Bottom with Selection    :: Ctrl+Shift+Page Down
+Page Up with Selection                      :: Shift+Page Up
+Page Down with Selection                    :: Shift+Page Down
+Move Caret to Text Start with Selection     :: Ctrl+Shift+Home
+Move Caret to Text End with Selection       :: Ctrl+Shift+End
+Extend Selection                            :: Ctrl+W
+Shrink Selection                            :: Ctrl+Shift+W
+
+Code folding
+------------
