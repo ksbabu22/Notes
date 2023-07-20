@@ -1,0 +1,13 @@
+Refactorings
+------------
+Refactor This...    :: Ctrl+Alt+Shift+T
+Rename...           :: Shift+F6
+Change Signature... :: Ctrl+F6
+Inline...           :: Ctrl+Alt+N
+Move...             :: F6
+Extract Method...   :: Ctrl+Alt+M
+Introduce Field...  :: Ctrl+Alt+F
+Introduce Parameter... :: Ctrl+Alt+P
+Introduce Variable... :: Ctrl+Alt+V
+Safe Delete...      :: Alt+Delete
+

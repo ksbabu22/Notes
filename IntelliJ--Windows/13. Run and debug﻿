@@ -1,0 +1,29 @@
+Run and debug
+-------------
+Run Anything            ::  Double Ctrl
+Run context configuration :: Shift+F10
+Run...                  :: Alt+Shift+F10
+Debug context configuration  :: Shift+F9
+Debug...                :: Alt+Shift+F9
+Attach to Process...    :: Ctrl+Alt+F5
+Stop                    :: Ctrl+F2
+Resume Program          :: F9
+Stop Background Processes... :: Ctrl+Shift+F2
+Step Over               :: F8
+Force Step Over         :: Alt+Shift+F8
+Step Into               :: F7
+Smart Step Into         :: Shift+F7
+Force Step Into         :: Alt+Shift+F7
+Step Out                :: Shift+F8
+Run To Cursor           :: Alt+F9
+Force Run To Cursor     :: Ctrl+Alt+F9
+Show Execution Point    :: Alt+F10
+Evaluate Expression...  :: Alt+F8
+Quick Evaluate Expression :: Ctrl+Alt+F8
+Toggle Line Breakpoint :: Ctrl+F8
+Toggle Temporary Line Breakpoint  :: Ctrl+Alt+Shift+F8
+View Breakpoints...        :: Ctrl+Shift+F8
+Edit Breakpoint            :: Ctrl+Shift+F8
+Show Run window            :: Alt+4
+Show Debug window          :: Alt+5
+Show Services window       :: Alt+8

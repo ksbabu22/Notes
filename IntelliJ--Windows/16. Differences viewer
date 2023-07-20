@@ -1,0 +1,10 @@
+Differences viewer
+------------------
+Show Diff :: Ctrl+D
+Compare Files  :: Ctrl+D
+Next Difference :: F7
+Previous Difference :: Shift+F7
+Accept Left Side :: Ctrl+Alt+R
+Accept Right Side :: Ctrl+Alt+A
+Select Opposite Diff Pane :: Ctrl+Shift+Tab
+Show Diff Settings Popup...:: Ctrl+Shift+D

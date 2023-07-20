@@ -1,0 +1,8 @@
+Code analysis
+-------------
+Show Intention Actions  :: Alt+Enter
+Error Description       :: Ctrl+F1
+Next Highlighted Error  :: F2
+Previous Highlighted Error  :: Shift+F2
+Run Inspection by Name...  :: Ctrl+Alt+Shift+I
+Show Problems window  :: Alt+6

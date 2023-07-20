@@ -1,0 +1,20 @@
+Tool windows
+------------
+Hide Active Tool Window  :: Shift+Escape
+Hide All Tool Windows    :: Ctrl+Shift+F12
+Jump to Last Tool Window :: F12
+Stretch to Left          :: Ctrl+Alt+Shift+Left
+Stretch to Right         :: Ctrl+Alt+Shift+Right
+Stretch to Top           :: Ctrl+Alt+Shift+Up
+Stretch to Bottom        :: Ctrl+Alt+Shift+Down
+Show Project window      :: Alt+1
+Show Bookmarks window    :: Alt+2
+Show Find window         :: Alt+3
+Show Run window          :: Alt+4
+Show Debug window        :: Alt+5
+Show Problems window     :: Alt+6
+Show Structure window    :: Alt+7
+Show Services window     :: Alt+8
+Show Version Control window :: Alt+9
+Show Commit window       :: Alt+0
+Show Terminal window     :: Alt+F12

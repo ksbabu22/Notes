@@ -1,0 +1,10 @@
+Navigate from symbols
+---------------------
+Find Usages                 :: Alt+F7
+Go to Declaration or Usages :: Ctrl+B
+Go to Type Declaration      :: Ctrl+Shift+B
+Show Usages                 :: Ctrl+Alt+F7
+Go to Super Method          :: Ctrl+U
+Go to Implementation(s)     :: Ctrl+Alt+B
+Go to Test                  :: Ctrl+Shift+T
+Highlight Usages in File    :: Ctrl+Shift+F7

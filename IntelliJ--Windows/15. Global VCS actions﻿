@@ -1,0 +1,11 @@
+Global VCS actions
+------------------
+VCS Operations Popup... :: Alt+`
+Commit...           :: Ctrl+K
+Update Project      :: Ctrl+T
+Rollback            :: Ctrl+Alt+Z
+Push...             :: Ctrl+Shift+K
+Next Change         :: Ctrl+Alt+Shift+Down
+Previous Change     :: Ctrl+Alt+Shift+Up
+Show Version Control window :: Alt+9
+Show Commit window  :: Alt+0
