@@ -1,13 +1,13 @@
 IntelliJ IDEA's top keyboard shortcuts
 --------------------------------------
 
-Search Everywhere   :: Double Shift
-Find Action...      :: Ctrl+Shift+A
-Show Project window :: Alt+1
-Rebuild             :: Ctrl+Shift+F9
-Show Intention Actions :: Alt+Enter
-Recent Files        :: Ctrl+E
-Find Usages         :: Alt+F7
+Search Everywhere       :: Double Shift
+Find Action...          :: Ctrl+Shift+A
+Show Project window     :: Alt+1
+Rebuild                 :: Ctrl+Shift+F9
+Show Intention Actions  :: Alt+Enter
+Recent Files            :: Ctrl+E
+Find Usages             :: Alt+F7
 Select In...        :: Alt+F1
 Settings...         :: Ctrl+Alt+S
 Generate...         :: Alt+Insert
