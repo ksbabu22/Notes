@@ -8,13 +8,13 @@ Rebuild                 :: Ctrl+Shift+F9
 Show Intention Actions  :: Alt+Enter
 Recent Files            :: Ctrl+E
 Find Usages             :: Alt+F7
-Select In...        :: Alt+F1
-Settings...         :: Ctrl+Alt+S
-Generate...         :: Alt+Insert
-Run Anything        :: Double Ctrl
-Debug...            :: Alt+Shift+F9
-View Breakpoints... :: Ctrl+Shift+F8
-Attach to Process... ::Ctrl+Alt+F5
+Select In...            :: Alt+F1
+Settings...             :: Ctrl+Alt+S
+Generate...             :: Alt+Insert
+Run Anything            :: Double Ctrl
+Debug...                :: Alt+Shift+F9
+View Breakpoints...     :: Ctrl+Shift+F8
+Attach to Process...    :: Ctrl+Alt+F5
 VCS Operations Popup... :: Alt+`
-Refactor This...     :: Ctrl+Alt+Shift+T
-Reformat Code        :: Ctrl+Alt+L
+Refactor This...        :: Ctrl+Alt+Shift+T
+Reformat Code           :: Ctrl+Alt+L
