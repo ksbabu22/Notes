@@ -18,4 +18,4 @@ Page Down with Selection                    :: Shift+Page Down
 Move Caret to Text Start with Selection     :: Ctrl+Shift+Home
 Move Caret to Text End with Selection       :: Ctrl+Shift+End
 Extend Selection                            :: Ctrl+W
-Shrink Selection                            :: Ctrl+Shift+W
+Shrink Selection                            :: Ctrl+Shift+W  
