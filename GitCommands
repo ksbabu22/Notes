@@ -18,5 +18,4 @@
 11.git Checkout            :: git checkout [name of new Branch]
 12.git log
 12.git log --graph
-13..
 
